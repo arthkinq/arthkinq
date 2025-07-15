@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @arthkinq
-- 👀 I’m interested in stuff
-- 🌱 I’m currently learning something
-- 💞️ I’m looking to collaborate on a project
-- 📫 How to reach me ? idk
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ok
+👋 Hi, I’m @arthkinq
+
 
 <!---
 arthkinq/arthkinq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
