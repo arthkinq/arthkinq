@@ -1,4 +1,4 @@
 # Привет, я Артур! 
 
-*   **Email:** `arthurslanov@gmail.com` _prefered_
-*   **Telegram:** `@arfkinq` _sometimes unavailable_
+*   **Email:** `arthurslanov@gmail.com` 
+*   **Telegram:** `@arfkinq`
